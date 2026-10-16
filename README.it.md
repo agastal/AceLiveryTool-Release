@@ -11,6 +11,8 @@ La guida completa è nella **[wiki](https://github.com/agastal/AceLiveryTool-Rel
 
 - Tutte le auto del gioco (71), con il loro layout UV come guida.
 - Livelli con maschere, modi di fusione e rugosità, metallo e clear coat propri.
+- Parti: un clic limita un livello al cofano, a una portiera, a un paraurti (e alla parte corrispondente
+  dall'altro lato).
 - Pennelli che lavorano in 3D (nessuna cucitura tra i pannelli): tondo, spray, timbri; simmetria sinistra/destra.
 - Immagini e testi proiettati sull'auto, anche specchiati sull'altro lato.
 - Annulla/ripeti, file di progetto (`.acelivery`); viste di fronte, lato e sopra come in Blender (1, 3, 7 o
@@ -35,7 +37,8 @@ Requisiti: Windows 10 o 11 (64 bit) e Assetto Corsa EVO installato tramite Steam
 L'app non contiene **nessuna parte del gioco**. Al primo avvio legge le auto dalla tua installazione e le tiene in
 `%LOCALAPPDATA%\ace-livery-tool\cars` (circa un minuto e 550 MB). Trova il gioco nelle librerie di Steam; se non
 ci riesce, *Scegli la cartella del gioco…* la indica a mano. Rifallo dopo un aggiornamento del gioco dall'elenco
-delle auto nella barra in alto, *Prepara di nuovo le auto dal gioco*.
+delle auto nella barra in alto, *Prepara di nuovo le auto dal gioco*. Quando una nuova versione dell'app ha
+bisogno di più informazioni dalle auto, le prepara di nuovo da sola al primo avvio.
 
 ## Usare una livrea esportata
 

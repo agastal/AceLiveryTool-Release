@@ -11,6 +11,7 @@ The full guide is in the **[wiki](https://github.com/agastal/AceLiveryTool-Relea
 
 - Every car of the game (71), with its UV layout as a guide.
 - Layers with masks, blend modes and their own roughness, metallic and clear coat.
+- Parts: a click limits a layer to the hood, a door, a bumper (and the matching part on the other side).
 - Brushes that work in 3D (no seams between panels): round, spray, stamps; left/right symmetry.
 - Images and text projected on the car, mirrored to the other side if you want.
 - Undo/redo, project files (`.acelivery`); front, side and top views as in Blender (1, 3, 7 or Alt + drag).
@@ -34,7 +35,8 @@ Requirements: Windows 10 or 11 (64-bit) and Assetto Corsa EVO installed through 
 The app ships **no part of the game**. On first start it reads the cars from your own installation and keeps
 them in `%LOCALAPPDATA%\ace-livery-tool\cars` (about a minute and 550 MB). It finds the game in your Steam
 libraries; if it does not, *Choose the game folder…* picks it by hand. Do it again after a game update from the
-car list in the top bar, *Prepare the cars again from the game*.
+car list in the top bar, *Prepare the cars again from the game*. When a new version of the app needs more from
+the cars, it prepares them again by itself at its first start.
 
 ## Using an exported livery
 

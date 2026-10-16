@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.2.0] - 2026-10-16
+
+Paint one part of the car at a time: the hood, a door, a bumper, with a click.
+
+### New
+- **Parts** tool (P): click a part of the car and the selected layer shows only there (the first click gives the
+  layer a mask); Shift+click hides a part again. **Whole part** takes the whole door, hood or bumper as the game
+  moves it; **The other side too** takes the matching part on the other side. The status line names the part under
+  the pointer. Then fill, paint, images and texts of that layer stay inside.
+- The cars are prepared again by themselves, once, when a new version of the app needs more from them (this one
+  reads the car's parts): about a minute at the first start after the update.
+
+### Changed
+- The tool buttons (View, Brush, Eraser, Place, Parts) are icons; their names and keys are in the tooltips.
+
 ## [0.1.0] - 2026-10-16
 
 The first public version: a 3D livery editor for every car of Assetto Corsa EVO.

@@ -1,5 +1,22 @@
 # Novità
 
+## [0.2.0] - 2026-10-16
+
+Dipingere una parte dell'auto alla volta: il cofano, una portiera, un paraurti, con un clic.
+
+### Novità
+- Strumento **Parti** (P): clicca una parte dell'auto e il livello selezionato si vede solo lì (il primo clic gli
+  crea una maschera); Maiusc+clic nasconde di nuovo una parte. **Parte intera** prende tutta la portiera, il cofano o
+  il paraurti come li muove il gioco; **Anche l'altro lato** prende la parte corrispondente dall'altro lato. La barra
+  di stato dice il nome della parte sotto il puntatore. Poi riempimento, pennello, immagini e testi di quel livello
+  restano dentro.
+- Le auto vengono preparate di nuovo da sole, una volta, quando una nuova versione dell'app ha bisogno di più
+  informazioni (questa legge le parti delle auto): circa un minuto al primo avvio dopo l'aggiornamento.
+
+### Modifiche
+- I pulsanti degli strumenti (Vista, Pennello, Gomma, Posiziona, Parti) sono icone; nomi e tasti sono nei
+  suggerimenti.
+
 ## [0.1.0] - 2026-10-16
 
 La prima versione pubblica: un editor 3D di livree per tutte le auto di Assetto Corsa EVO.
