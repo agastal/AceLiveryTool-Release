@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.3.0] - 2026-10-17
+
+Ready-made brushes, drawing tablets, and a tidier screen.
+
+### New
+- **Brush** menu with ten ready-made brushes, each with a preview: hard round, soft round, spray, chalk, bristles,
+  marker, calligraphy nib, spatter, stipple, stars. They set the tip and its variations; colour, radius and opacity
+  stay as they are. The last one chosen is remembered.
+- New **Chalk** tip, and the **Bristles**, **Marker** and **Nib** stamps.
+- Drawing tablets: the radius follows the pen's pressure (**Radius follows pen pressure**, **Minimum radius**). These
+  settings appear after the first touch of the pen; the mouse always paints at the full radius.
+- **View** menu: **UV view** (U key) and the **Front**, **Side** and **Top** views.
+
+### Changed
+- **Body** / **Windows** and **Export to the game…** are now in the top bar.
+- Painting is much faster on laptops with two graphics cards: the app now uses the dedicated one.
+- Dense brushes (spray, stipple, stars) paint as fast as the others.
+- New icon.
+
 ## [0.2.0] - 2026-10-16
 
 Paint one part of the car at a time: the hood, a door, a bumper, with a click.

@@ -1,5 +1,25 @@
 # Novità
 
+## [0.3.0] - 2026-10-17
+
+Pennelli pronti, tavolette grafiche e uno schermo più ordinato.
+
+### Novità
+- Menu **Pennello** con dieci pennelli pronti, ognuno con un'anteprima: tondo duro, tondo morbido, spruzzo, gesso,
+  setole, pennarello, pennino calligrafico, schizzi, puntinato, stelle. Impostano la punta e le sue variazioni; colore,
+  raggio e opacità restano come sono. L'ultimo scelto viene ricordato.
+- Nuova punta **Gesso** e i timbri **Setole**, **Pennarello** e **Pennino**.
+- Tavolette grafiche: il raggio segue la pressione della penna (**Il raggio segue la pressione della penna**,
+  **Raggio minimo**). Queste impostazioni compaiono dopo il primo tocco della penna; il mouse dipinge sempre al raggio
+  pieno.
+- Menu **Vista**: **Vista UV** (tasto U) e le viste **Davanti**, **Lato** e **Sopra**.
+
+### Modifiche
+- **Carrozzeria** / **Vetri** ed **Esporta nel gioco…** ora sono nella barra in alto.
+- Si dipinge molto più veloce sui portatili con due schede grafiche: l'app ora usa quella dedicata.
+- I pennelli fitti (spruzzo, puntinato, stelle) dipingono veloci come gli altri.
+- Icona nuova.
+
 ## [0.2.0] - 2026-10-16
 
 Dipingere una parte dell'auto alla volta: il cofano, una portiera, un paraurti, con un clic.

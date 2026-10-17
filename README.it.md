@@ -13,7 +13,8 @@ La guida completa è nella **[wiki](https://github.com/agastal/AceLiveryTool-Rel
 - Livelli con maschere, modi di fusione e rugosità, metallo e clear coat propri.
 - Parti: un clic limita un livello al cofano, a una portiera, a un paraurti (e alla parte corrispondente
   dall'altro lato).
-- Pennelli che lavorano in 3D (nessuna cucitura tra i pannelli): tondo, spray, timbri; simmetria sinistra/destra.
+- Pennelli che lavorano in 3D (nessuna cucitura tra i pannelli): dieci pronti (tondo, spruzzo, gesso, setole,
+  pennarello, pennino, timbri…), simmetria sinistra/destra, pressione della penna su una tavoletta grafica.
 - Immagini e testi proiettati sull'auto, anche specchiati sull'altro lato.
 - Annulla/ripeti, file di progetto (`.acelivery`); viste di fronte, lato e sopra come in Blender (1, 3, 7 o
   Alt + trascina).
