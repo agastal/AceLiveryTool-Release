@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.4.0] - 2026-10-17
+
+Straight lines and gradients.
+
+### New
+- **Gradient** tool (G): drag on the car from where it starts to where it ends, and the selected paint layer fills
+  from the **From** colour to the **To** colour, or **To transparent**. **Linear** or **Radial**, with its own
+  **Opacity** and **Left/right symmetry**; it shows on the car while you drag. Painting the layer's mask, it makes
+  the layer fade out.
+- Straight lines: with the brush or the eraser, **Shift + click** draws a straight line from the end of the last
+  stroke; hold the button to see the line while you move it.
+
 ## [0.3.0] - 2026-10-17
 
 Ready-made brushes, drawing tablets, and a tidier screen.

@@ -1,5 +1,17 @@
 # Novità
 
+## [0.4.0] - 2026-10-17
+
+Linee dritte e sfumature.
+
+### Novità
+- Strumento **Sfumatura** (G): trascina sull'auto da dove comincia a dove finisce, e il livello di pittura
+  selezionato si riempie dal colore **Da** al colore **A**, o **Fino a trasparente**. **Lineare** o **Radiale**, con
+  la sua **Opacità** e la **Simmetria sinistra/destra**; mentre trascini la vedi sull'auto. Sulla maschera del
+  livello, fa sfumare via il livello.
+- Linee dritte: col pennello o la gomma, **Maiusc + clic** traccia una linea dritta dalla fine dell'ultimo tratto;
+  tieni premuto per vedere la linea mentre la sposti.
+
 ## [0.3.0] - 2026-10-17
 
 Pennelli pronti, tavolette grafiche e uno schermo più ordinato.
