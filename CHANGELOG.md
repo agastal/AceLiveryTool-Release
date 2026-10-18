@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.5.0] - 2026-10-18
+
+Bent text, a brush you can see, and no more lost work.
+
+### New
+- Text can be bent as in Illustrator: in a text layer, **Warp** (**Arc**, **Arch**, **Bulge**, **Flag**) and **Bend**,
+  from -100% to 100% (negative bends the other way).
+- The brush and the eraser show a circle under the pointer, as wide as the **Radius** (two with **Left/right
+  symmetry**); over the car it takes the place of the mouse pointer.
+- **Unsaved changes**: before closing the window, starting a **New** project, opening another one or changing car,
+  the app asks whether to **Save** them.
+
+### Changed
+- The hint about the mouse and the views shows with the **View** tool only; the **Shift + click** straight-line hint
+  is now under the brush settings.
+
+### Fixed
+- Moving a slider (for example **Radius**) no longer makes its value wrap and shift the whole panel.
+
 ## [0.4.0] - 2026-10-17
 
 Straight lines and gradients.

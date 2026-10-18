@@ -1,5 +1,24 @@
 # Novità
 
+## [0.5.0] - 2026-10-18
+
+Testo curvo, un pennello che si vede e niente più lavoro perso.
+
+### Novità
+- Il testo si può curvare come in Illustrator: nel livello di testo, **Curvatura** (**Arco**, **Arcata**,
+  **Rigonfiamento**, **Bandiera**) e **Piega**, da -100% a 100% (in negativo piega dall'altra parte).
+- Il pennello e la gomma mostrano un cerchio sotto il puntatore, largo quanto il **Raggio** (due con la **Simmetria
+  sinistra/destra**); sopra l'auto prende il posto del puntatore del mouse.
+- **Modifiche non salvate**: prima di chiudere la finestra, iniziare un progetto **Nuovo**, aprirne un altro o
+  cambiare auto, l'app chiede se **Salvarle**.
+
+### Modifiche
+- Il suggerimento su mouse e viste compare solo con lo strumento **Vista**; quello sulla linea dritta con
+  **Maiusc + clic** ora è sotto le impostazioni del pennello.
+
+### Correzioni
+- Spostando uno slider (per esempio il **Raggio**) il valore non va più a capo spostando tutto il pannello.
+
 ## [0.4.0] - 2026-10-17
 
 Linee dritte e sfumature.
