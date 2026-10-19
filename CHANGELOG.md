@@ -1,5 +1,27 @@
 # Changelog
 
+## [0.6.0] - 2026-10-19
+
+Carbon fibre, SVG logos, and images you resize and turn right on the car.
+
+### New
+- **Carbon fibre** brush (and the **Carbon** tip): paints a woven carbon fibre in the brush's colour (dark grey for
+  classic carbon); **Grain** sets the width of a strand. With the Carbon tip, **Fill with the brush colour** fills
+  the layer with carbon: with the **Parts** tool, a carbon bonnet takes two clicks.
+- **SVG** files for **+ Image**, **+ Texture** and the brush stamps (**Load…**): logos stay sharp at any size, and
+  projects keep the SVG itself.
+- **Place** tool: **Shift** + drag on the car resizes the selected image or text, **Ctrl** + drag turns it (press
+  Shift too for steps of 15°). Each is one step of **Undo**.
+
+### Changed
+- While the cars are being prepared from the game (**Prepare the cars from the game**), a spinning wheel and the
+  hourglass pointer show that the work is going on.
+
+### Fixed
+- Where a small piece (a licence plate, for example) shares the texture with a panel, the brush, the eraser and the
+  gradient now paint the panel instead of missing it.
+- The hint under the **Place** tool called it by another name.
+
 ## [0.5.0] - 2026-10-18
 
 Bent text, a brush you can see, and no more lost work.

@@ -1,5 +1,28 @@
 # Novità
 
+## [0.6.0] - 2026-10-19
+
+Fibra di carbonio, loghi SVG, e immagini che si ridimensionano e ruotano direttamente sull'auto.
+
+### Novità
+- Pennello **Fibra di carbonio** (e punta **Carbonio**): dipinge una trama di fibra di carbonio nel colore del
+  pennello (grigio scuro per il carbonio classico); **Grana** regola la larghezza di un filo. Con la punta Carbonio,
+  **Riempi col colore del pennello** riempie il livello di carbonio: con lo strumento **Parti**, un cofano in carbonio
+  in due clic.
+- File **SVG** per **+ Immagine**, **+ Texture** e i timbri del pennello (**Carica…**): i loghi restano nitidi a
+  qualsiasi dimensione, e i progetti conservano l'SVG stesso.
+- Strumento **Posiziona**: **Maiusc** + trascina sull'auto ridimensiona l'immagine o il testo selezionato, **Ctrl** +
+  trascina lo ruota (premendo anche Maiusc, a passi di 15°). Ognuno è un passo di **Annulla**.
+
+### Modifiche
+- Durante la preparazione delle auto dal gioco (**Prepara le auto dal gioco**) una rotellina e la clessidra
+  mostrano che il lavoro è in corso.
+
+### Correzioni
+- Dove un pezzo piccolo (per esempio una targa) condivide la texture con un pannello, pennello, gomma e sfumatura
+  ora dipingono il pannello invece di mancarlo.
+- Il suggerimento sotto lo strumento **Posiziona** lo chiamava con un altro nome.
+
 ## [0.5.0] - 2026-10-18
 
 Testo curvo, un pennello che si vede e niente più lavoro perso.

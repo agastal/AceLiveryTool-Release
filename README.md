@@ -12,9 +12,9 @@ The full guide is in the **[wiki](https://github.com/agastal/AceLiveryTool-Relea
 - Every car of the game (71), with its UV layout as a guide.
 - Layers with masks, blend modes and their own roughness, metallic and clear coat.
 - Parts: a click limits a layer to the hood, a door, a bumper (and the matching part on the other side).
-- Brushes that work in 3D (no seams between panels): ten ready-made ones (round, spray, chalk, bristles, marker,
-  nib, stamps…), left/right symmetry, pen pressure on a drawing tablet.
-- Images and text projected on the car, mirrored to the other side if you want.
+- Brushes that work in 3D (no seams between panels): eleven ready-made ones (round, spray, chalk, carbon
+  fibre, bristles, marker, nib, stamps…), left/right symmetry, pen pressure on a drawing tablet.
+- Images (PNG, JPG, SVG) and text projected on the car, mirrored to the other side if you want.
 - Undo/redo, project files (`.acelivery`); front, side and top views as in Blender (1, 3, 7 or Alt + drag).
 - In Italian, English, French, German and Spanish.
 - **Export** writes an External Livery into `Saved Games\ACE\ExternalLiveries\<name>\`, linked to a car of your
