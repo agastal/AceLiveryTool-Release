@@ -20,6 +20,8 @@ The full guide is in the **[wiki](https://github.com/agastal/AceLiveryTool-Relea
 - **Export** writes an External Livery into `Saved Games\ACE\ExternalLiveries\<name>\`, linked to a car of your
   garage, and lists the liveries already there; any of them, also one not made with the app, can be opened in the
   editor and changed.
+- **Share** a livery with other drivers in one zip, so they see it on your car online (or use it on theirs), and
+  join a race's liveries in one **race pack**.
 
 ## Install
 
@@ -54,6 +56,13 @@ The game shows **one** livery per garage car: exporting over the name of the liv
 that one. Parts in the garage's own colour (on some cars a wing or a few trims) are not reached by an external
 livery: the editor shows them in grey.
 
+## Sharing with other drivers
+
+The game downloads no one's liveries: to see yours on your car online, the other drivers need it installed too.
+In **Manage liveries**, the share icon saves a zip; they install it with **File → Install a shared livery…** (or
+**INSTALLA.bat** in the zip, without the app). **Make a race pack…** joins the drivers' zips into one for a whole
+race; installing it adds no car to the garage. More in the [wiki](https://github.com/agastal/AceLiveryTool-Release/wiki/Sharing-liveries).
+
 ## Support
 
 ACE Livery Tool is free. If you like it, you can support it with a donation on [PayPal](https://www.paypal.com/paypalme/agastalink).
@@ -71,7 +80,9 @@ is a newer release, and to download it when you ask.
 It reads the game's files where Steam installed them, or in the folder you choose, and the garage cars in
 `Saved Games\ACE`. It writes only to its own folders (`%LOCALAPPDATA%\ace-livery-tool` for the cars;
 `%APPDATA%\com.aceliverytool.app` and `%LOCALAPPDATA%\com.aceliverytool.app` for its settings: language, last car,
-game folder, the window's place), to the livery folders you export and to the project files you choose to save.
+game folder, the window's place), to the livery folders you export or install, to the project files and zips you
+choose to save, and, only when you choose **Use it on my car** with a new car, adds that car to your garage
+(`Saved Games\ACE\ProfileData\…\SavedCars`).
 Liveries you delete from the app go to the Recycle Bin; those you turn off go to
 `Saved Games\ACE\ExternalLiveries_off`.
 

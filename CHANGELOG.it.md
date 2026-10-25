@@ -1,5 +1,25 @@
 # Novità
 
+## [0.7.0] - 2026-10-25
+
+Condividi le tue livree con gli altri piloti, perché le vedano sulla tua auto quando correte online, e metti le
+livree di tutta una gara in un solo pacchetto.
+
+### Novità
+- **Condividi con altri piloti** (l'icona nuova accanto a ogni livrea in **Gestisci le livree**): salva uno zip da
+  mandare agli altri piloti. Lo installano con l'app, o con **INSTALLA.bat** dentro lo zip se non ce l'hanno.
+- **Installa livrea condivisa…** (menu File, **Installa da zip…** in **Gestisci le livree**, o trascinando lo zip
+  sulla finestra): **Vederla sull'auto di <autore> quando correte online** la installa così com'è (il gioco non
+  scarica le livree degli altri: ognuno deve averle); **Usarla sulla mia auto** ne collega una copia a un'auto del
+  tuo garage, o a una nuova aggiunta al garage se non hai quell'allestimento.
+- **Crea pacchetto gara…** (menu File): chi organizza unisce gli zip dei piloti in uno solo; ogni pilota lo installa
+  una volta e vede ogni livrea sull'auto del suo pilota. Nessuna auto viene aggiunta al garage, e la livrea del
+  pilota stesso viene saltata.
+- **Gestisci le livree** mostra le livree installate da altri come "di <autore>: la vedi sulla sua auto online".
+
+### Correzioni
+- La **Larghezza** di un'immagine o di un testo mostra al massimo un decimale.
+
 ## [0.6.0] - 2026-10-19
 
 Fibra di carbonio, loghi SVG, e immagini che si ridimensionano e ruotano direttamente sull'auto.

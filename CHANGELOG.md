@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.7.0] - 2026-10-25
+
+Share your liveries with other drivers, so they see them on your car when you race online, and put a whole race's
+liveries in one pack.
+
+### New
+- **Share with other drivers** (the new icon next to each livery in **Manage liveries**): saves a zip to send to
+  other drivers. They install it with the app, or with **INSTALLA.bat** inside the zip if they do not have it.
+- **Install a shared livery…** (File menu, **Install from zip…** in **Manage liveries**, or drop the zip on the
+  window): **See it on <author>'s car when you race online** installs it as it is (the game downloads no one's
+  liveries: everyone needs them); **Use it on my car** links a copy to a car of your garage, or to a new one added
+  to the garage when you have none of that trim.
+- **Make a race pack…** (File menu): the organiser joins the drivers' zips into one; each driver installs it once and
+  sees every livery on its driver's car. No car is added to the garage, and a driver's own livery is skipped.
+- **Manage liveries** shows the liveries installed from others as "by <author>: you see it on their car online".
+
+### Fixed
+- The **Width** of an image or text shows at most one decimal.
+
 ## [0.6.0] - 2026-10-19
 
 Carbon fibre, SVG logos, and images you resize and turn right on the car.
