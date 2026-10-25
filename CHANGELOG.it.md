@@ -1,5 +1,19 @@
 # Novità
 
+## [0.7.1] - 2026-10-25
+
+Condividi in un passo la livrea che stai dipingendo, e chiudi l'app dal menu File.
+
+### Novità
+- **Esporta e condividi…** nella finestra **Esporta nel gioco**, e **File → Condividi con altri piloti…**: la
+  livrea viene prima esportata nel gioco, poi si crea lo zip per gli altri piloti, così contiene quello che hai
+  appena dipinto.
+- **File → Esci** chiude l'app (chiedendo prima delle modifiche non salvate).
+
+### Modifiche
+- Quando l'esportazione chiede di confermare (una livrea con quel nome, o un'altra livrea sulla stessa auto), ora
+  dice "clicca di nuovo", perché si va avanti con entrambi i pulsanti.
+
 ## [0.7.0] - 2026-10-25
 
 Condividi le tue livree con gli altri piloti, perché le vedano sulla tua auto quando correte online, e metti le

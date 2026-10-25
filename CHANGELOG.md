@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.7.1] - 2026-10-25
+
+Share the livery you are painting in one step, and close the app from the File menu.
+
+### New
+- **Export and share…** in the **Export to the game** window, and **File → Share with other drivers…**: the livery
+  is exported to the game first, then the zip for the other drivers is made, so it holds what you just painted.
+- **File → Exit** closes the app (asking first about unsaved changes).
+
+### Changed
+- When exporting asks to confirm (a livery with that name, or another livery on the same car), it now says
+  "click again", as it goes on with either button.
+
 ## [0.7.0] - 2026-10-25
 
 Share your liveries with other drivers, so they see them on your car when you race online, and put a whole race's
