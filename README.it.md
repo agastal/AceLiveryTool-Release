@@ -12,9 +12,11 @@ La guida completa è nella **[wiki](https://github.com/agastal/AceLiveryTool-Rel
 - Tutte le auto del gioco (71), con il loro layout UV come guida.
 - Livelli con maschere, modi di fusione e rugosità, metallo e clear coat propri.
 - Parti: un clic limita un livello al cofano, a una portiera, a un paraurti (e alla parte corrispondente
-  dall'altro lato).
-- Pennelli che lavorano in 3D (nessuna cucitura tra i pannelli): undici pronti (tondo, spruzzo, gesso, fibra di
-  carbonio, setole, pennarello, pennino, timbri…), simmetria sinistra/destra, pressione della penna su una tavoletta grafica.
+  dall'altro lato); oppure un percorso che disegni, o un colore già dipinto.
+- Forme disegnate con punti e curve, ognuna un livello modificabile, riempite di colore, retino a puntini, carbonio,
+  gesso o spruzzo.
+- Pennelli che lavorano in 3D (nessuna cucitura tra i pannelli): dodici pronti (tondo, spruzzo, gesso, fibra di
+  carbonio, retino a puntini, setole, pennarello, pennino, timbri…), simmetria sinistra/destra, pressione della penna su una tavoletta grafica.
 - Immagini (PNG, JPG, SVG) e testi proiettati sull'auto, anche specchiati sull'altro lato.
 - Annulla/ripeti, file di progetto (`.acelivery`); viste di fronte, lato e sopra come in Blender (1, 3, 7 o
   Alt + trascina).

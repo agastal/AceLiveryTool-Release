@@ -1,5 +1,27 @@
 # Novità
 
+## [0.8.0] - 2026-11-23
+
+Disegna forme con punti e curve e riempile di colore o di motivi, e crea maschere con un percorso o un colore.
+
+### Novità
+- Strumento **Forma** (S): clic per i punti d'angolo, clic e trascina per i punti curvi, clic sul primo punto per
+  chiudere. Ogni forma è un livello a sé che resta modificabile: trascinane punti e maniglie, cambiane **Colore** e
+  **Riempimento** quando vuoi. **Riempimento**: **Pieno**, **Retino a puntini** (passo, grandezza dei puntini, una
+  **Sfumatura** verso una **Direzione**), **Carbonio**, **Gesso** o **Spruzzo**. **Vista della forma** rimette la
+  vista da cui è stata disegnata.
+- Strumento **Parti**, due modi nuovi: **Penna** (disegna un percorso chiuso sull'auto, poi **Mostra dentro** o
+  **Nascondi dentro**) e **Colore** (clic su un colore dell'auto: il livello si vede dove i livelli sotto hanno quel
+  colore, con una **Tolleranza**).
+- Nuovo pennello **Retino a puntini**, e la punta **Retino**: puntini su una griglia a 45°, più piccoli dove il
+  pennello è più morbido.
+
+### Modifiche
+- Con **Anche sull'altro lato (simmetria)**, un'immagine sull'altro lato dell'auto ora è speculare, come l'auto; le
+  scritte restano leggibili. La nuova opzione **Sull'altro lato leggibile (non speculare)** sceglie, per ogni
+  immagine o testo.
+- I pennelli a timbro con **Simmetria sinistra/destra** dipingono anche loro un'immagine speculare sull'altro lato.
+
 ## [0.7.1] - 2026-10-25
 
 Condividi in un passo la livrea che stai dipingendo, e chiudi l'app dal menu File.

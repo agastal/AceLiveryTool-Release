@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.8.0] - 2026-11-23
+
+Draw shapes with points and curves and fill them with colour or patterns, and make masks with a path or a colour.
+
+### New
+- **Shape** tool (S): click for corner points, click and drag for curved points, click the first point to close.
+  Every shape is a layer of its own that stays editable: drag its points and handles, change **Colour** and **Fill**
+  at any time. **Fill**: **Solid**, **Halftone dots** (spacing, dot size, a **Fade** towards a **Direction**),
+  **Carbon**, **Chalk** or **Spray**. **Shape's view** puts back the view it was drawn from.
+- **Parts** tool, two new modes: **Pen** (draw a closed path on the car, then **Show inside** or **Hide inside**) and
+  **Colour** (click a colour on the car: the layer shows where the layers under it have that colour, with a
+  **Tolerance**).
+- New brush **Halftone dots**, and the **Halftone** tip: dots on a 45° grid, smaller where the brush is softer.
+
+### Changed
+- With **On the other side too (symmetry)**, an image on the other side of the car is now its mirror image, as the
+  car is; text stays readable. The new **Readable on the other side (not mirrored)** chooses, for each image or text.
+- Stamp brushes with **Left/right symmetry** paint a mirror image on the other side too.
+
 ## [0.7.1] - 2026-10-25
 
 Share the livery you are painting in one step, and close the app from the File menu.
